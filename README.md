@@ -10,4 +10,60 @@ This Final Year Project (FYP) analyzes and predicts export volumes of kernel-bas
 4. **Predictive Modeling**: Forecast future export volumes using Linear Regression, Random Forest, and XGBoost
 5. **Business Intelligence Dashboard**: Interactive visualization of insights and predictions
 
+## 🌟 Key Features
+
+- ✅ **Comprehensive Data Pipeline**: Automated preprocessing, feature engineering, and data validation
+- ✅ **Advanced Clustering**: Product segmentation based on volatility, seasonality, and market sensitivity
+- ✅ **Multiple ML Models**: Comparison of Linear Regression, Random Forest, XGBoost for optimal predictions
+- ✅ **External Factor Integration**: Exchange rates, domestic prices, fresh nut consumption
+- ✅ **Time Series Analysis**: Trend decomposition, seasonality detection, autocorrelation analysis
+- ✅ **Interactive Visualizations**: Comprehensive charts and plots for all analyses
+
+---
+
+## 📊 Dataset
+
+**Source**: Sri Lanka Coconut Development Authority (CDA)  
+**Time Period**: 2015-2024 (with 2025 validation data)  
+**Products Analyzed**: 
+- Desiccated Coconut
+- Coconut Oil
+- Virgin Coconut Oil
+- Coconut Milk/Cream
+- Coconut Water
+- Copra
+- Fresh Coconut
+- King Coconut
+- And more...
+
+**External Factors**:
+- Monthly exchange rates (LKR/USD)
+- Domestic coconut prices
+- Fresh nut consumption (million nuts/month)
+
+---
+
+## 🛠️ Technologies & Libraries
+
+### Core Libraries
+```python
+pandas          # Data manipulation and analysis
+numpy           # Numerical computing
+scikit-learn    # Machine learning models and preprocessing
+xgboost         # Gradient boosting framework
+```
+
+### Data Visualization
+```python
+matplotlib      # Static plotting
+seaborn         # Statistical data visualization
+plotly          # Interactive charts
+```
+
+### Statistical Analysis
+```python
+scipy           # Scientific computing
+statsmodels     # Time series analysis and decomposition
+```
+
 ---
