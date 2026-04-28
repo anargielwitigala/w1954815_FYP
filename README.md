@@ -1,6 +1,6 @@
 ## 📋 Project Overview
 
-This Final Year Project (FYP) analyzes and predicts export volumes of kernel-based coconut products from Sri Lanka (2015-2025). The project combines advanced machine learning techniques with comprehensive exploratory data analysis to provide actionable insights for the coconut export industry.
+A comprehensive forecasting and strategic intelligence system for twelve kernel-based Sri Lankan coconut export products (2015–2025). Built as a Final Year Project for BSc (Hons) in Business Data Analytics.
 
 ### 🎯 Key Objectives
 
@@ -34,7 +34,7 @@ This Final Year Project (FYP) analyzes and predicts export volumes of kernel-bas
 - Copra
 - Fresh Coconut
 - King Coconut
-- And more...
+  
 
 **External Factors**:
 - Monthly exchange rates (LKR/USD)
